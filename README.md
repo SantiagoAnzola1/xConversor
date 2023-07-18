@@ -16,32 +16,16 @@
 
 
 
-Durante este desafio se desarrollo una aplicación que realiza conversiones de divisas :euro: y conversiones de unidades de longitud :straight_ruler:.
+Durante este desafio se desarrollo una aplicación que realiza conversiones de divisas :euro: y conversiones de unidades de longitud :straight_ruler:, haciendo uso de la interfaz gráfica JavaSwing.
 
 :key:Las posibles conversiones son:
-
-| Divisas | Unidades de longitud | Diagrama de funcionamiento | Demo |
-| ----------- | ----------- | :--: | :--: |
-| Peso Colombiano (COP) | Kilómetro|<img width="80%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/90ae881d-dea8-49a8-bfdb-2e7a771f983e"/> |![FuncionamientoApp](https://github.com/SantiagoAnzola1/xConversor/assets/134959710/38313077-4833-42eb-8a36-843d483678af) |
-| Euro (EUR) | Metro| 
-| Dólar estadounidense (USD)| Decímetro|
-| Libras Esterlinas (GBP) | Centímetro|
-| Yen Japonés (KRW) | Milímetro|
-|  Won sul-coreano (JPY) | Milímetro|
-| | Micrómetro|
-| | Milla|
-| | Yarda|
-| | Pie|
-| | Pulgada|
-| | Milla náutica|
---------------------------------------------------------------------------------------
 
 <table>
     <thead>
         <tr>
             <th>Divisas</th>
             <th>Unidades de longitud</th>
-            <th>Diagrama de funcionamiento</th>
+            <th><h3>Diagrama de funcionamiento</h3></th>
         </tr>
     </thead>
     <tbody>
@@ -69,7 +53,7 @@ Durante este desafio se desarrollo una aplicación que realiza conversiones de d
       <tr>
           <td align="center">Won sul-coreano (JPY)</td>
           <td align="center">Micrómetro</td>
-          <th>Demo</th>
+          <th><h3>Demo</h3></th>
       </tr>
       <tr>
           <td align="center"></td>
@@ -96,11 +80,6 @@ Durante este desafio se desarrollo una aplicación que realiza conversiones de d
 </table>
 
 
-
-| Diagrama de funcionamiento | Demo |
-| ----------- | ----------- |
-|<img width="80%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/90ae881d-dea8-49a8-bfdb-2e7a771f983e"/> | ![FuncionamientoApp](https://github.com/SantiagoAnzola1/xConversor/assets/134959710/38313077-4833-42eb-8a36-843d483678af) |
-
 :bulb: Se hizo uso de los siguintes conceptos:
   - Uso de API.
   - Encapsulamiento. 
@@ -108,16 +87,20 @@ Durante este desafio se desarrollo una aplicación que realiza conversiones de d
   - Interfaz gráfica de Java.
   - Uso de librerias externas para manejo y procesamiento de iformación  en formato JSON .
   - Manejo de excepciones.
-  - 
-- Las función de cambio entre divisas se hizo a traés del la API ofrecida por 'https://exchangerate.host/'.
+  - Clase enum.
+  
+- Las función de cambio entre divisas se hizo a traés del la API ofrecida por  **_Exchangerate.host_**  [^1] .
 - Se puede navegar facilmete entre pantallas.
 - Contiene funcionalidad de intercambiar divisas, copiar el resultado, restablecer campos y cambios de pagia rápido.
 - Área de validación de texto.
 
 ## :scroll: Requisitos:
-- [x] Las conversiones pueden realizarse entre sí, a necesidad del usuario.
 - [x] Debe contener ventanas de advertencia y validación de información. 
 - [x] Debe ser posible la conversión de todas unidades/divisas disponibles.
+- [x] Interfaz de usuraio agradable y facil de usar.
+- [x] Validación interactiva de campos. 
 
-## :link: Pagina:
-👉 <a href="https://santiagoanzola1.github.io/Encriptador/">Visualiza mi proyecto</a> 	:point_left:
+
+
+
+[^1]: https://exchangerate.host/
