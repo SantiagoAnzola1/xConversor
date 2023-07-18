@@ -4,7 +4,11 @@
 ## 
 ##   
 
-![image](https://github.com/SantiagoAnzola1/xConversor/assets/134959710/ea2df8c0-20f2-498a-b0f4-e5ca8f15cd38)
+| Menu | Conversor Divisas | Conversor Unidades de longitud |
+| ------------- | ------------- | ------------- |
+| <img width="100%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/ca0fc142-787e-4092-a4e1-e07d05deb01d" /> | <img  width="100%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/ecde0c90-8727-45ac-9927-b21047b89693" />  | <img  width="100%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/eef1052f-dbc4-4eb9-9b54-aee52102c583" /> |
+
+
 <p align="center">
   | <a href=READMEEN.md>English</a> | 
     <span>Español</span> |
