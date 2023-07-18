@@ -1,6 +1,9 @@
 
 <h1><img align="left" width="50px" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/aeb9c054-e046-44de-8afa-42dc68e1a10d">xConversor</h1>    
 
+## 
+##   
+
 ![image](https://github.com/SantiagoAnzola1/xConversor/assets/134959710/ea2df8c0-20f2-498a-b0f4-e5ca8f15cd38)
 <p align="center">
   | <a href=READMEEN.md>English</a> | 
@@ -88,19 +91,26 @@ Durante este desafio se desarrollo una aplicación que realiza conversiones de d
   - Uso de librerias externas para manejo y procesamiento de iformación  en formato JSON .
   - Manejo de excepciones.
   - Clase enum.
-  
-- Las función de cambio entre divisas se hizo a traés del la API ofrecida por  **_Exchangerate.host_**  [^1] .
-- Se puede navegar facilmete entre pantallas.
-- Contiene funcionalidad de intercambiar divisas, copiar el resultado, restablecer campos y cambios de pagia rápido.
-- Área de validación de texto.
+  - Las función de cambio entre divisas se hizo a traés del la API ofrecida por  **_Exchangerate.host_**  [^1] .
+  - Se puede navegar facilmete entre pantallas.
+  - Contiene funcionalidad de intercambiar divisas, copiar el resultado, restablecer campos y cambios de pagia rápido.
+  - Área de validación de texto.
 
 ## :scroll: Requisitos:
 - [x] Debe contener ventanas de advertencia y validación de información. 
 - [x] Debe ser posible la conversión de todas unidades/divisas disponibles.
 - [x] Interfaz de usuraio agradable y facil de usar.
-- [x] Validación interactiva de campos. 
+- [x] Validación interactiva de campos.
+- [x] Enter para hacer la solicitud. 
 
+## :movie_camera: Video de explicación y funcionamiento:
 
+<p align="center">
+  <a  href="" target="_blank" rel="noopener">
+  <img width="75%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/134959710/250427828-9b8e0184-3a7e-41cc-b52b-b13461e3736c.png"/>
+</a>
+
+</p>
 
 
 [^1]: https://exchangerate.host/
