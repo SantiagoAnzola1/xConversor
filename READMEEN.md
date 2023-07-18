@@ -34,7 +34,7 @@ During this challenge, an application was developed that performs currency :euro
         <tr>
             <td align="center">Colombian Peso (COP)</td>
             <td align="center">Kilometer</td>
-            <td rowspan=5 align="center"><img width="80%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/90ae881d-dea8-49a8-bfdb-2e7a771f983e"/></td>  
+            <td rowspan=5 align="center"><img width="80%" src="https://github.com/SantiagoAnzola1/xConversor/assets/134959710/b824fde5-4f08-4ee2-bfec-7b72a098067a"/></td>
         </tr>
         <tr>
             <td align="center">Euro (EUR)</td>
