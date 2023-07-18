@@ -101,7 +101,7 @@ Durante este desafio se desarrollo una aplicación que realiza conversiones de d
 - [x] Debe ser posible la conversión de todas unidades/divisas disponibles.
 - [x] Interfaz de usuraio agradable y facil de usar.
 - [x] Validación interactiva de campos.
-- [x] Enter para hacer la solicitud. 
+- [x] Enter para enviar la solicitud. 
 
 ## :movie_camera: Video de explicación y funcionamiento:
 
